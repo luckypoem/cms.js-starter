@@ -16,7 +16,7 @@ var config = {
     branch: 'develop',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
-    // prefix: 'cms.js-starter',
+    // prefix: '/',
   },
 
   // The name of the layouts directory.
