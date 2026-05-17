@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一幅油画
+title: 测试xyz
 excerpt: 这是一篇文章
 tags: misc
 author: ym
